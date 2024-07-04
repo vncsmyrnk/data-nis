@@ -1,0 +1,15 @@
+{
+    "name": "vncsmyrnk/data-nis",
+    "autoload": {
+        "psr-4": {
+            "Vncsmyrnk\\DataNis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinicius Mayrink",
+            "email": "vmayrink12@gmail.com"
+        }
+    ],
+    "require": {}
+}

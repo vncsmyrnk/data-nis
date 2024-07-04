@@ -1,4 +1,4 @@
-FROM php:8.3.8-apache
+FROM composer:2.7.7
 COPY ./src/ .
 RUN a2enmod rewrite
 COPY ./config/apache/000-default.conf /etc/apache2/sites-available/000-default.conf
