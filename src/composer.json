@@ -2,7 +2,7 @@
     "name": "vncsmyrnk/data-nis",
     "autoload": {
         "psr-4": {
-            "Vncsmyrnk\\DataNis\\": "src/"
+            "Vncsmyrnk\\DataNis\\": "app/"
         }
     },
     "authors": [
